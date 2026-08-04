@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "REPLACE_WITH_FIREBASE_PROJECT_ID"
+    "default": "my-capstone-app-2b10e"
   },
   "targets": {},
   "etags": {}
